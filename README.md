@@ -1,3 +1,7 @@
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard](https://raw.githubusercontent.com/iprathmeshtiwari/Hr-Analytics-Dashboard-Sample/main/screenshot/dashboard.png)
+
 # 📊 HR Analytics Dashboard
 
 An interactive **HR Analytics Dashboard** created as a data analytics project to analyze employee information, workforce trends, and key HR performance indicators.
