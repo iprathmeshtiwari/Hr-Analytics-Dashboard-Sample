@@ -111,14 +111,6 @@ This project demonstrates my understanding of:
 * Business/HR analytics
 * GitHub project documentation
 
-## 📷 Dashboard Preview
-
-Add your dashboard screenshot here:
-
-```markdown
-![HR Analytics Dashboard](Screenshots/dashboard-preview.png)
-```
-
 ## ⚠️ Disclaimer
 
 This dashboard is created **only for educational and portfolio purposes**.
