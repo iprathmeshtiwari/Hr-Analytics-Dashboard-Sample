@@ -1,6 +1,6 @@
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard]([https://raw.githubusercontent.com/iprathmeshtiwari/Hr-Analytics-Dashboard-Sample/main/screenshot/dashboard.png](https://github.com/iprathmeshtiwari/Customer-Segmentation-with-ML-in-Python-K-Means-Clustering-Algorithm/blob/main/Customer%20Segmentation/Screenshot/Screenshot%202026-10-05%20021502.png))
+![HR Analytics Dashboard](https://raw.githubusercontent.com/iprathmeshtiwari/Hr-Analytics-Dashboard-Sample/main/screenshot/dashboard.png)
 
 # 📊 HR Analytics Dashboard
 
